@@ -5,8 +5,11 @@ This app do a basic functions like
 + remove note
 + list specific notes 
 + list all notes
+
 The input is given through command line.
+
 In this project, I learned to 
+
 + setup node 
 + use yargs library for arguments fetching 
 + debugging using chrome dev tools
