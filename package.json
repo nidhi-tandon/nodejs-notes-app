@@ -1,0 +1,34 @@
+{
+  "name": "first-express-project",
+  "version": "0.0.1",
+  "description": "Application Description",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/npm.git"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/register": "^7.0.0",
+    "dat-gui": "latest",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.6",
+    "path": "latest",
+    "q": "latest",
+    "sequelize": "latest",
+    "tedious": "latest",
+    "yargs": "^12.0.5"
+  },
+  "bugs": {
+    "url": "https://github.com/npm/npm/issues"
+  },
+  "homepage": "https://github.com/npm/npm#readme",
+  "devDependencies": {},
+  "author": "nidhi-tandon",
+  "license": "ISC"
+}
